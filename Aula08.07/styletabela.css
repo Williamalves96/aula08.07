@@ -1,0 +1,25 @@
+/* Definição do estilo geral do corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte do texto */
+    background-color: #4e16e84e; /* Define a cor de fundo da página */
+    margin: 0; /* Remove a margem padrão do corpo */
+    padding: 0; /* Remove o padding padrão do corpo */
+}
+/* Estilização para a tabela */
+
+table {
+    width: 100%;
+    border-collapse: collapse; /* Remove espaços entre as células */
+    
+}
+/* Estilização para as células da tabela */
+th, td {
+    border: 1px solid #6f2ed0; /* Define borda */
+    padding: 8px; /* Espaçamento interno */
+    text-align: left; /* Alinhamento do texto */
+}
+/* Estilização para o cabeçalho da tabela */
+th {
+    background-color: #0758ee; /* Cor de fundo */
+    color: black; /* Cor do texto */
+}
